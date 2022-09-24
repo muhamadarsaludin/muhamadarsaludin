@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **muhamadarsaludin/muhamadarsaludin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![MasterHead](https://muhamad-arsal.surge.sh/Banner2.png)
+<h1 align="center">Hi 👋, I'm Muhamad Arsaludin</h1>
+<h3 align="center">I'm a UX Engineer at Blibli</h3>
